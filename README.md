@@ -52,7 +52,7 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
 Lien vers mon autre repo avec des ressources utiles pour le cours : [mon autre repo](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810).
 
-**"Mathematicals Symbols"**
+**"Mathematical Symbols"**
 
 ![xkcd meme](.img/mathematical_symbol_fight.png)
 
