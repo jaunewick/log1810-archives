@@ -1,6 +1,8 @@
 # LOG1810 Structures Discrètes Archives
 Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
+![xkcd meme](.img/mathematical_symbol_fight.png)
+
 **Contrôles périodiques passés**
 
 1. **CP1 corrections :**
@@ -48,12 +50,8 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 12. TD12 _Langage pt.1_ [A21](/archives/tds/td12/TD12-prof.pdf), [H22](/archives/tds/td12/TD12-H2022-Solution.pdf), [E22](/archives/tds/td12/TD12-E2022-Solution.pdf), [A22](/archives/tds/td12/LOG2810-TD12_A22-solutions.pdf), [H23](/archives/tds/td12/TD12-H23-Solution.pdf), [E23](/archives/tds/td12/TD12-H23-Solution.pdf), [A23](/archives/tds/td12/TD12-A23-Solution.pdf)
 13. TD13 _Langage pt.2_ [A21](/archives/tds/td13/TD13-prof.pdf), [H22](/archives/tds/td13/TD13-H2022-Solution.pdf), [H23](/archives/tds/td13/TD13-H23-Solution.pdf), [E23](/archives/tds/td13/TD13-E23-Solutionnaire.pdf), [A23](/archives/tds/td13/TD13-A23-Solutionnaire.pdf)
 
-**Autre Repo**
+**Autres Ressources**
 
-Lien vers mon autre repo avec des ressources utiles pour le cours : [mon autre repo](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810).
+- Lien vers mon autre repo avec des ressources utiles pour le cours : [mon autre repo](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810).
 
-**"Mathematical Symbols"**
-
-![xkcd meme](.img/mathematical_symbol_fight.png)
-
-[https://xkcd.com/2343/](https://xkcd.com/2343/)
+- Pour plus d'information : daniel.giao@icloud.com
