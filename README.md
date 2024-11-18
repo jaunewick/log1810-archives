@@ -34,6 +34,9 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 - _Été_ 2023 [CP3-E23.pdf](/archives/cps/cp3/LOG1810-E2023-CP3-Solutionnaire.pdf)
 - _Automne_ 2023 [CP3-A23.pdf](/archives/cps/cp3/LOG1810-A2023-CP3-Solutionnaire.pdf)
 
+4. **Examen Final**
+- _Automne_ 2021 [EF-A21](/archives/efs/LOG1810_EF_A2021.pdf) pas de correction, désolé
+
 **Travaux dirigés passés**
 
 1. TD1 _Logique-prop_ [A21](/archives/tds/td1/TD1-prof.pdf), [H22](/archives/tds/td1/TD1-Solution.pdf), [E22](/archives/tds/td1/TD1-E2022-Solution.pdf), [A22](/archives/tds/td1/LOG2810-TD1_A22-solutions.pdf), [H23](/archives/tds/td1/TD1-H23-Solution.pdf), [E23](/archives/tds/td1/TD1-E23-Solution.pdf), [A23](/archives/tds/td1/TD1-A23-Solution.pdf)
