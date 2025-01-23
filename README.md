@@ -59,6 +59,6 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
 **Autres Ressources**
 
-- Lien vers mon autre repo avec des ressources utiles pour le cours : [mon autre repo](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810)
+- Lien vers mes autres repo avec des ressources utiles pour le cours : [epgcd](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810), [data viz](https://github.com/jaunewick/r-weekly-grades-log1810)
 
 - Pour plus d'information : daniel.giao@icloud.com
