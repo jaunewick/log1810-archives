@@ -36,6 +36,10 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
 **Examens finaux passés**
 - _Automne_ 2021 [EF-A21.pdf](/archives/efs/LOG1810_EF_A2021.pdf) pas de correction, désolé
+- _Hiver_ 2022 (_sur demande seulement_)
+- _Automne_ 2022 (_sur demande seulement_)
+- _Hiver_ 2023 (_sur demande seulement_)
+- _Automne_ 2023 (_sur demande seulement_)
 
 **Travaux dirigés passés**
 
