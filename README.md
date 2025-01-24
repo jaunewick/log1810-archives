@@ -59,11 +59,14 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
 **Autres Ressources**
 
+- Corrigé des exos pairs du [livre](https://faculty.ksu.edu.sa/sites/default/files/%5BBook%5D%20Discrete%20mathematics%20and%20its%20applications%20%282019%29_0.pdf) :
+    - [Even_solutions_book.pdf](archives/others/Even_solutions_book.pdf)
+
 - Lien vers mes autres repo avec des ressources utiles pour le cours :
     - [python-extended-euclidean-algorithm-log1810](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810)
     - [r-weekly-grades-log1810](https://github.com/jaunewick/r-weekly-grades-log1810)
 
-- Mes résumés (inachevés) des chapitres du [livre](https://faculty.ksu.edu.sa/sites/default/files/%5BBook%5D%20Discrete%20mathematics%20and%20its%20applications%20%282019%29_0.pdf) :
+- Mes résumés (inachevés) des chapitres du livre :
     - [1-Logic-and-proofs.pdf](archives/summaries/1-Logic-and-proofs.pdf)
     - [2-Sets-functions-sequences-sums-matrices.pdf](archives/summaries/2-Sets-Functions-Sequences-Sums-Matrices.pdf)
     - [3-Algorithms.pdf](archives/summaries/3-Algorithms.pdf)
