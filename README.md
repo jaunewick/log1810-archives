@@ -59,6 +59,21 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
 **Autres Ressources**
 
-- Lien vers mes autres repo avec des ressources utiles pour le cours : [epgcd](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810), [data viz](https://github.com/jaunewick/r-weekly-grades-log1810)
+- Lien vers mes autres repo avec des ressources utiles pour le cours :
+    - [python-extended-euclidean-algorithm-log1810](https://github.com/jaunewick/python-extended-euclidean-algorithm-log1810)
+    - [r-weekly-grades-log1810](https://github.com/jaunewick/r-weekly-grades-log1810)
+
+- Mes résumés (inachevés) des chapitres du [livre](https://faculty.ksu.edu.sa/sites/default/files/%5BBook%5D%20Discrete%20mathematics%20and%20its%20applications%20%282019%29_0.pdf) :
+    - [1-Logic-and-proofs.pdf](archives/summaries/1-Logic-and-proofs.pdf)
+    - [2-Sets-functions-sequences-sums-matrices.pdf](archives/summaries/2-Sets-Functions-Sequences-Sums-Matrices.pdf)
+    - [3-Algorithms.pdf](archives/summaries/3-Algorithms.pdf)
+    - [4-Number-theory-and-cryptography.pdf](archives/summaries/4-Number-Theory-and-Cryptography.pdf)
+    - _5-Induction-and-Recursion.pdf_ (TODO)
+    - [6-Counting.pdf](archives/summaries/6-Counting.pdf)
+    - _8-Advance_counting_techniques.pdf_ (TODO)
+    - [9-Relations.pdf](archives/summaries/9-Relations.pdf)
+    - [10-Graphs.pdf](archives/summaries/10-Graphs.pdf)
+    - [11-Trees.pdf](archives/summaries/11-Trees.pdf)
+    - [13-Modeling-computations.pdf](archives/summaries/13-Modeling-Computation.pdf)
 
 - Pour plus d'information : daniel.giao@icloud.com
