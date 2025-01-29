@@ -81,6 +81,6 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 
 - Pour plus d'information : daniel.giao@icloud.com
 
-- Lien avec d'autres cours de Poly, créé par [Lévis Thériault](https://www.polymtl.ca/expertises/theriault-levis) :
+- Lien avec d'autres cours de Poly, schéma créé par [Lévis Thériault](https://www.polymtl.ca/expertises/theriault-levis) :
 
 ![map-log2810](.img/MapLog2810.png)
