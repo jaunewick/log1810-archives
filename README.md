@@ -80,3 +80,7 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
     - [13-Modeling-computations.pdf](archives/summaries/13-Modeling-Computation.pdf)
 
 - Pour plus d'information : daniel.giao@icloud.com
+
+- Lien avec d'autres cours de Poly, créé par [Lévis Thériault](https://www.polymtl.ca/expertises/theriault-levis) :
+
+![map-log2810](.img/MapLog2810.png)
