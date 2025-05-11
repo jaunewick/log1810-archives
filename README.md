@@ -79,7 +79,7 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
     - [11-Trees.pdf](archives/summaries/11-Trees.pdf)
     - [13-Modeling-computations.pdf](archives/summaries/13-Modeling-Computation.pdf)
 
-- Pour plus d'information : daniel.giao@icloud.com
+- Discord : underfitted
 
 - Lien avec d'autres cours de Poly, schéma créé par [Lévis Thériault](https://www.polymtl.ca/expertises/theriault-levis) :
 
