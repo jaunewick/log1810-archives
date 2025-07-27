@@ -39,7 +39,7 @@ Archives des matériaux du cours LOG1810 sur les structures discrètes. Enjoy!
 - _Hiver_ 2022 (_sur demande seulement_)
 - _Automne_ 2022 (_sur demande seulement_)
 - _Hiver_ 2023 (_sur demande seulement_)
-- _Automne_ 2023 (_sur demande seulement_)
+- _Automne_ 2023 (_sera publié si le repo atteint **100 étoiles** ⭐_)
 
 **Travaux dirigés passés**
 
